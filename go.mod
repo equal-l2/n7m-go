@@ -1,4 +1,4 @@
-module github.com/equal-l2/n7m-go
+module github.com/equal-l2/n7m
 
 go 1.17
 
